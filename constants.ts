@@ -9,6 +9,12 @@ export const MOCK_USER: User = {
   monthlyExpenses: 2100.00,
 };
 
+export const INSIGHTS = [
+  "You're maintaining a healthy savings rate this month.",
+  "Your dining expenses are slightly above average.",
+  "You're on track to reach your Emergency Fund goal."
+];
+
 export const MOCK_TRANSACTIONS: Transaction[] = [
   {
     id: '1',
