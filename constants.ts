@@ -130,7 +130,7 @@ export const MOCK_GOALS: Goal[] = [
     id: '3',
     name: 'New Macbook',
     target: 2000,
-    saved: 300;
+    saved: 300,
     date: 'Work upgrade',
     category: 'Gadgets',
     icon: 'laptop_mac',
