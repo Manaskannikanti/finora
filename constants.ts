@@ -8,13 +8,6 @@ export const MOCK_USER: User = {
   monthlyIncome: 4200.00,
   monthlyExpenses: 2100.00,
 };
-
-export const INSIGHTS = [
-  "You're maintaining a healthy savings rate this month.",
-  "Your dining expenses are slightly above average.",
-  "You're on track to reach your Emergency Fund goal."
-];
-
 export const MOCK_TRANSACTIONS: Transaction[] = [
   {
     id: '1',
@@ -162,3 +155,11 @@ export const SPENDING_DATA = [
   { name: 'W3', amount: 735 },
   { name: 'W4', amount: 500 },
 ];
+
+export const INSIGHTS = [
+  "You're maintaining a healthy savings rate this month.",
+  "Your dining expenses are slightly above average.",
+  "You're on track to reach your Emergency Fund goal.",
+  "Consider increasing your monthly investments slightly."
+];
+
